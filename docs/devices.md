@@ -14,6 +14,8 @@ nav_order: 2
 
 Overland Navigator requires around 200mb of free space to install and operate if using on a mobile device.
 
+If you download offline maps more space will be required for map tile storage.
+
 ## Installing the app
 
 ### Apple iPhone/iPad

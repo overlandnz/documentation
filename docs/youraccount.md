@@ -3,6 +3,11 @@ layout: default
 title: Your account
 nav_order: 3
 ---
+## In this section
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## One account for all your devices
 
