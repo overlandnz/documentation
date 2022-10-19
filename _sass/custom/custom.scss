@@ -1,0 +1,17 @@
+@import "./colors";
+@import "./config";
+
+* {
+  font-family: $text-primary-font;
+
+}
+
+a {
+  text-decoration: none;
+  color: $text-colour;
+}
+
+p {
+  font-family: $text-primary-font;
+  line-height: $text-line-height;
+}

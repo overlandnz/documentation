@@ -1,0 +1,63 @@
+@import "luma";
+
+$base-colour: #616161;
+$base-colour--light: lighten($base-colour, 5);
+$base-colour--dark: darken($base-colour, 5);
+$base-colour--verydark: darken($base-colour, 20);
+$base-colour--veryverydark: darken($base-colour, 50);
+$base-colour--overcolour: #eeeeee;
+
+$colour-grey--verylight: #eeeeee;
+$colour-grey--light: #e0e0e0;
+$colour-grey--medium: #989696;
+$colour-grey--dark: #3b3b3b;
+
+$colour-green: #79b532;
+$colour-green--verylight: lighten($colour-green, 10);
+$colour-green--light: lighten($colour-green, 2);
+$colour-green--dark: darken($colour-green, 2);
+$colour-green--verydark: darken($colour-green, 10);
+
+$color-red--light: #f2dede;
+$color-red: #d40303;
+$color-red--dark: darken($color-red, 2);
+$color-red--verydark: darken($color-red, 10);
+
+$colour-orange: #ffa500;
+$colour-orange--light: lighten($colour-orange, 2);
+$colour-orange--dark: darken($colour-orange, 2);
+$colour-orange--verydark: darken($colour-orange, 10);
+
+$color__blue: #04a6ff;
+$color__blue--verylight: lighten($color__blue, 10);
+$color__blue--light: lighten($color__blue, 2);
+$color__blue--dark: darken($color__blue, 2);
+$color__blue--verydark: darken($color__blue, 10);
+
+
+$darkgrey-colour: #666666;
+
+/* Colours */
+
+$features-background-colour: #f6f5f5;
+$text-colour: #6f6f6f;
+$light-text-colour: #d1cfcf;
+$success-green: #7AB709;
+$failure-red: $color-red;
+$white-pink: #fbd9e8;
+$footer-link-colour: white;
+$light-red: #f2dede;
+$light-green: #e3f0cc;
+
+$hover-grey: #f7f5f6;
+
+/* Borders */
+$grey-border: #f7f5f6;
+
+$input-background-colour: pick-visible-color(white, $base-colour, $base-colour--veryverydark);
+$input-border-colour: pick-visible-color(white, $base-colour, $base-colour--veryverydark);
+
+/* TEXT */
+
+$h1-color: $text-colour;
+$heading-color: #212121;
