@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+ruby "2.7.6"
 
 gem 'haml', '>= 4.0.5', '< 6.0'
 gem 'middleman', '4.4.2'
