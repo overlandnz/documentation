@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 vendor
 .idea/
+
+
+rvm use $VERSION_RUBY_2_6
