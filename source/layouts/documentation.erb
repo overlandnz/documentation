@@ -1,0 +1,25 @@
+<% wrap_layout :core do %>
+  <main class="uk-padding-small uk-margin-bottom" role="main">
+    <div uk-grid class="uk-grid-small">
+        <%= partial "partials/breadcrumbs" %>
+        <%= partial "partials/sidebar_nav" %>
+        <div class="uk-width-expand" id="main">
+            <%= yield %>
+            <% if data.config.last_updated %>
+                <span class="uk-text-small uk-align-right">
+                    Last updated: <i>
+                    <% last_update = last_update_time(current_page.source_file) %>
+                    <% if last_update == '' %>
+                        N/A
+                    <% else %>
+                        <%= last_update.strftime('%c') %>
+                    <% end %>
+                    </i>
+                </span>
+            <% end %>
+        </div>
+        <%= partial "partials/sidebar_right_nav" %>
+        <%= partial "partials/next_prev" %>
+    </div>
+  </main>
+<% end %>
