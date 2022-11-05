@@ -10,3 +10,4 @@ Welcome to the Navigator Help!
 * [Getting Started](/docs/devices/)
 * [Your account](/docs/youraccount/)
 * [Tracks](/docs/tracks/)
+* [Navigator Pro](/docs/navigatorpro/)
