@@ -54,8 +54,8 @@ Please check you receive a confirmation email regarding any cancellations before
 
 ### Website
 
-If you created your subscription on the website, jump back onto it, make sure you're
-signed in. Click your name in the upper right hand corner, choose 'My profile' and then pick 'Manage/Cancel'
+If you created your subscription on the website (using Stripe), jump back onto it - https://overlandnavigator.co.nz, make sure you're
+signed in. Click the settings tab in the menu, then click/tap 'Manage/Cancel'
 to change the status of your subscription. You'll be take to our payment provider Stripe to complete the process.
 
 ### iPhone/iPad
