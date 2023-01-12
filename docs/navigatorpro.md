@@ -18,7 +18,7 @@ that make your experience even better.
 
 ## Upgrading
 
-The best way to do so is on the website - https://overlandnavigator.co.nz/gopro - this avoids the Apple and Google fees
+The best way to do so is on the website - [https://overlandnavigator.co.nz/gopro](https://overlandnavigator.co.nz/gopro) - this avoids the Apple and Google fees
 that are charged. If you are using a promo code, the website is the only place you can apply them.
 
 The website allows you to use a credit card.
@@ -54,7 +54,7 @@ Please check you receive a confirmation email regarding any cancellations before
 
 ### Website
 
-If you created your subscription on the website (using Stripe), jump back onto it - https://overlandnavigator.co.nz, make sure you're
+If you created your subscription on the website (using Stripe), jump back onto it - [https://overlandnavigator.co.nz](https://overlandnavigator.co.nz), make sure you're
 signed in. Click the settings tab in the menu, then click/tap 'Manage/Cancel'
 to change the status of your subscription. You'll be take to our payment provider Stripe to complete the process.
 
